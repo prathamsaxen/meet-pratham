@@ -1,8 +1,3 @@
-Here's a short **README.md** file for your project:  
-
----
-
-```markdown
 # Meet Pratham 👋
 
 This is a simple CLI tool that logs my details, skills, and projects in the terminal in a stylish way.  
