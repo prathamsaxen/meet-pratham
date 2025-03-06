@@ -7,6 +7,10 @@ This is a simple CLI tool that logs my details, skills, and projects in the term
 You can run this tool using **npx** without installing anything globally:  
 
 ```sh
+npx pratham@latest
+```
+
+```sh
 npx meet-pratham@latest
 ```
 
